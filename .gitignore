@@ -1,0 +1,11 @@
+data/
+fonts/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+results/
+pretrained_weights/
