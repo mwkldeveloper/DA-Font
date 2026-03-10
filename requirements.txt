@@ -1,0 +1,9 @@
+torch
+torchvision
+sconf
+lmdb
+opencv-python
+scipy
+fontTools
+einops
+font2data @ git+ssh://git@github.com/idgo/font2data.git
